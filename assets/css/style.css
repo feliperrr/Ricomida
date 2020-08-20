@@ -1,0 +1,25 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+.newsletter {
+    background: #DC3545;
+    height:25rem ;
+}
+
+.fondo {
+    background: #373A3C;
+}
+
+.footer {
+    font-family: 'lobster', cursive;
+}
+
+.botones {
+    height: 5rem;
+}
+
